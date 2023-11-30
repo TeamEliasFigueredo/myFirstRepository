@@ -1,0 +1,1 @@
+este es el contenido del fichero file_branch2.txt de la rama branch_1
